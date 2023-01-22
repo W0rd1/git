@@ -1,2 +1,1 @@
-#Hello, world
-##My name is GL and I used to type 70wpm
+#JavaScript is the most programming language used all over the globe
